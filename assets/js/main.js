@@ -2,6 +2,7 @@ var now = document.querySelector(`#now-button`);
 var hours = document.querySelector(`#hours-button`);
 var minutes = document.querySelector(`#minutes-button`);
 var seconds = document.querySelector(`#seconds-button`);
+var
 
 var messageToast;
 var duration;
